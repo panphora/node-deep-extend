@@ -53,7 +53,7 @@ console.log(obj1);
 /*
 { a: 1,
   b: 3,
-	c: 5,
+  c: 5,
   d:
    { a: 1,
      b: { first: 'one', second: 'two' },
